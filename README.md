@@ -1,4 +1,4 @@
-# ENVIRO
+# enviro: using AR to enhance sustainability.
 
 
 ## Inspiration
